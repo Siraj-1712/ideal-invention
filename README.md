@@ -27,5 +27,6 @@ Algorithms that will be considered:
 We used domain understanding and literature survey to reduce the number of attributes by using the relations between them to create new variables and drop the parent variables. This helped us manage the huge dataset we were working on.
 
 ![image](https://user-images.githubusercontent.com/111660368/186124153-554ac8e0-b344-4bde-b904-25abc7ce6bcc.png)
+<img width="742" alt="Capture - metrics df" src="https://user-images.githubusercontent.com/111660368/186126328-2fef57cd-8cc6-4c5d-9cfb-c6cb568f98fc.PNG">
 
 
